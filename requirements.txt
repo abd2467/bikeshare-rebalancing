@@ -1,0 +1,10 @@
+pandas
+numpy
+duckdb
+requests
+matplotlib
+ortools
+simpy
+scipy
+jupyter
+streamlit
